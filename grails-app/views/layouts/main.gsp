@@ -19,5 +19,8 @@
 			border="0" /></a>
 	</div>
 	<g:layoutBody />
+	<div id="footer">
+		<h3>&copy; BDB Corporation</h3>
+	</div>
 </body>
 </html>
