@@ -29,7 +29,7 @@ a:hover {
 }
 
 body {
-	background: #E7E7E2 url('./images/body.jpg') no-repeat center top;
+	background: #E7E7E2 url('../images/body.jpg') no-repeat center top;
 	color: #444;
 	font: normal 62.5% Tahoma, sans-serif;
 	padding-top: 64px;
@@ -75,7 +75,7 @@ code {
 }
 
 blockquote {
-	background: url(./images/quote.gif) no-repeat;
+	background: url(../images/quote.gif) no-repeat;
 	display: block;
 	font-weight: bold;
 	padding-left: 28px;
@@ -112,13 +112,13 @@ h1,h2,h3 {
 }
 
 .outer-container {
-	background: url('./images/container.jpg') no-repeat center bottom;
+	background: url('../images/container.jpg') no-repeat center bottom;
 	padding-bottom: 64px;
 }
 
 /* headere & title */
 .header {
-	background: #222 url('./images/header.jpg') no-repeat;
+	background: #222 url('../images/header.jpg') no-repeat;
 	height: 160px;
 	margin-bottom: 5px;
 	text-align: center;
@@ -166,7 +166,7 @@ h1,h2,h3 {
 
 /* main */
 .main {
-	background: url(./images/main.gif) repeat-y;
+	background: url(../images/main.gif) repeat-y;
 	border-top: 4px solid #FFF;
 	padding: 8px 12px 0 0;
 }
@@ -184,7 +184,7 @@ h1,h2,h3 {
 }
 
 .content li {
-	list-style: url(./images/li.gif);
+	list-style: url(../images/li.gif);
 	margin-left: 18px;
 }
 
